@@ -1,0 +1,16 @@
+Port 4400
+IPAddr 127.0.0.1
+
+#  Number of clients
+MaxClients 10
+
+#  Time for wait
+TimeWait 1
+
+# Name of log file
+LogFile /home/anvecher/log.txt
+
+AllowLogging 1
+
+LogLevel 4
+
